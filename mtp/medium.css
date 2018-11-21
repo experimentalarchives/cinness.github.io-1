@@ -18,12 +18,9 @@ p {
 }
 
 #support { 
-  position: relative;
+  position: absolute;
   width: 580px; 
-  left: calc(50% - 100px); 
-
-  word-wrap: break-all; 
-  word-break: break-word;
+  margin: 8px 0 0 190px;
 }
 
 #support a:hover { 
