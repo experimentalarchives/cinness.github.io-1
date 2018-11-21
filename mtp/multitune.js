@@ -68,7 +68,7 @@ function mtp() {
     xtrackname.innerHTML = tracks[2];
 
     var xplay = document.getElementById("xplay");
-    xplay.onmouseover = function() { this.style.opacity = "0.9"; };
+    xplay.onmouseover = function() { this.style.opacity = "0.85"; };
     xplay.onmouseout = function() { this.style.opacity = "1"; };
     xplay.style.display = "block";
     xplay.style.width = "0px";
@@ -79,7 +79,7 @@ function mtp() {
     xplay.style.cursor = "pointer";
 
     var xpause = document.getElementById("xpause");
-    xpause.onmouseover = function() { this.style.opacity = "0.9"; };
+    xpause.onmouseover = function() { this.style.opacity = "0.85"; };
     xpause.onmouseout = function() { this.style.opacity = "1"; };
     xpause.style.display = "none";
     xpause.style.cursor = "pointer";
@@ -103,7 +103,7 @@ function mtp() {
     pbar2.style.background = songs[0];
 
     var xskip = document.getElementById("xskip");
-    xskip.onmouseover = function() { this.style.opacity = "0.9"; };
+    xskip.onmouseover = function() { this.style.opacity = "0.85"; };
     xskip.onmouseout = function() { this.style.opacity = "1"; };
     xskip.style.display = "block";
     xskip.style.cursor = "pointer";
