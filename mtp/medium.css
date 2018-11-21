@@ -21,7 +21,7 @@ p {
   position: absolute;
   width: 400px; 
   left: calc(50% - 220px); 
-  margin: 50px 0 50px 0;
+  margin: 8px 0 0 0;
 }
 
 #support a:hover { 
