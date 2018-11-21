@@ -20,7 +20,7 @@ p {
 #support { 
   position: absolute;
   width: 580px; 
-  margin: 8px 0 0 190px;
+  margin: 8px 0 0 5em;
 }
 
 #support a:hover { 
