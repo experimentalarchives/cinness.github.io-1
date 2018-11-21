@@ -18,6 +18,7 @@ p {
 }
 
 #support { 
+  font-size: 16px;
   position: absolute;
   margin: 0 0 0 calc(50% - 73px);
 }
