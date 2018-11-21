@@ -18,10 +18,12 @@ p {
 }
 
 #support { 
-  position: absolute;
+  position: relative;
   width: 580px; 
   left: calc(50% - 100px); 
-  margin: 8px 0 0 0;
+
+  word-wrap: break-all; 
+  word-break: break-word;
 }
 
 #support a:hover { 
