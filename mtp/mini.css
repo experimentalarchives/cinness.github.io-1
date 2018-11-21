@@ -19,13 +19,20 @@ p {
 
 #support { 
   position: absolute;
-  width: 580px; 
-  left: calc(50% - 100px); 
-  margin: 8px 0 0 0;
+  margin: 0 0 0 calc(50% - 75px);
+  font-size: 12px;
 }
 
 #support a:hover { 
   opacity: 0.6;
+}
+
+#supportbox { 
+  position: absolute;
+  width: 400px; 
+  left: calc(50% - 220px); 
+  margin: 8px 0 0 0;
+  background: #fffafd;
 }
 
 #cell { 
