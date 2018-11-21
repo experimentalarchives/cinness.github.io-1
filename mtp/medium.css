@@ -18,9 +18,9 @@ p {
 }
 
 #support { 
-  font-size: 16px;
+  font-size: 14px;
   position: absolute;
-  margin: 0 0 0 calc(50% - 73px);
+  margin: 0 0 0 calc(50% - 75px);
 }
 
 #support a:hover { 
